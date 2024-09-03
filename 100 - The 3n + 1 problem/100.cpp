@@ -1,3 +1,5 @@
+// Esteban David Muñoz Bautista
+
 #include <stdio.h>
 
 int operaciones(int num) {
